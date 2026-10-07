@@ -1,0 +1,50 @@
+product_name,category,ingredients,description,skin_type,concern
+Glow Vitamin C Serum,Serum,"Vitamin C, Vitamin E, Ferulic Acid","Brightening serum that improves dullness, uneven tone and pigmentation.","Oily, Combination, Normal",Brightening
+Hydra Hyaluronic Serum,Serum,"Hyaluronic Acid, Glycerin, Panthenol",Lightweight hydrating serum that replenishes moisture and supports a plump skin feel.,"Dry, Normal, Combination",Hydration
+Clear Niacinamide Serum,Serum,"Niacinamide, Zinc PCA","Oil-control serum that helps reduce excess sebum, visible pores and blemishes.","Oily, Combination",Acne Control
+Barrier Repair Ceramide Cream,Moisturizer,"Ceramides, Squalane, Hyaluronic Acid",Rich barrier-supporting moisturizer for dryness and compromised skin.,"Dry, Sensitive",Barrier Repair
+Oil-Free Gel Moisturizer,Moisturizer,"Niacinamide, Hyaluronic Acid, Aloe Vera",Fast-absorbing gel moisturizer designed for lightweight daily hydration.,"Oily, Combination",Hydration
+Daily Mineral Sunscreen SPF 50,Sunscreen,"Zinc Oxide, Vitamin E",Broad-spectrum mineral sunscreen with a comfortable daily finish.,"Sensitive, Normal, Dry",Sun Protection
+Invisible Gel Sunscreen SPF 50,Sunscreen,"Uvinul A Plus, Uvinul T150, Vitamin E","Lightweight sunscreen formulated for an invisible, non-greasy finish.","Oily, Combination, Normal",Sun Protection
+Salicylic Acid Acne Serum,Serum,"Salicylic Acid, Niacinamide",Clarifying serum that helps unclog pores and manage acne-prone skin.,"Oily, Combination",Acne Control
+Gentle Oat Cleanser,Cleanser,"Colloidal Oat, Glycerin, Panthenol",Low-foam cleanser that gently removes impurities without stripping moisture.,"Dry, Sensitive",Gentle Cleansing
+Foaming Tea Tree Cleanser,Cleanser,"Tea Tree, Salicylic Acid, Zinc",Foaming cleanser for oily and blemish-prone skin.,"Oily, Combination",Acne Control
+Rice Water Brightening Cleanser,Cleanser,"Rice Extract, Niacinamide, Licorice",Daily cleanser designed to support a brighter and more even-looking complexion.,"Normal, Combination",Brightening
+Retinol Night Repair Serum,Serum,"Retinol, Squalane, Peptides",Night serum supporting smoother-looking skin and the appearance of fine lines.,"Normal, Dry, Combination",Anti-Aging
+Peptide Firming Serum,Serum,"Peptides, Hyaluronic Acid, Vitamin E",Firming serum designed to improve skin elasticity and hydration.,"Normal, Dry",Anti-Aging
+Azelaic Acid Calm Serum,Serum,"Azelaic Acid, Panthenol, Centella","Calming serum for uneven tone, redness and blemish-prone skin.","Sensitive, Oily, Combination",Calming
+Centella Cica Repair Cream,Moisturizer,"Centella Asiatica, Ceramides, Panthenol",Soothing moisturizer focused on barrier support and skin comfort.,"Sensitive, Dry",Barrier Repair
+Overnight Sleeping Mask,Mask,"Hyaluronic Acid, Squalane, Shea Butter",Overnight mask for replenishing moisture and reducing the feeling of dryness.,"Dry, Normal",Hydration
+Clay Detox Face Mask,Mask,"Kaolin Clay, Charcoal, Zinc",Weekly wash-off mask that absorbs excess oil and helps refine the look of pores.,"Oily, Combination",Oil Control
+AHA Glow Exfoliating Toner,Toner,"Lactic Acid, Glycolic Acid, Aloe",Exfoliating toner designed to improve skin texture and dullness.,"Normal, Combination",Exfoliation
+Alcohol-Free Hydrating Toner,Toner,"Hyaluronic Acid, Rose Water, Panthenol",Hydrating toner that refreshes skin and supports moisture retention.,"Dry, Normal, Sensitive",Hydration
+BHA Pore Refining Toner,Toner,"Salicylic Acid, Niacinamide, Green Tea",Pore-focused toner for oily and congestion-prone skin.,"Oily, Combination",Acne Control
+Vitamin C Day Cream,Moisturizer,"Vitamin C, Shea Butter, Vitamin E",Daily moisturizer with brightening ingredients and antioxidant support.,"Normal, Dry",Brightening
+Lightweight Matte Moisturizer,Moisturizer,"Niacinamide, Zinc PCA, Aloe",Non-greasy moisturizer designed for oily skin and a matte finish.,"Oily, Combination",Oil Control
+Squalane Facial Oil,Face Oil,"Squalane, Vitamin E",Light facial oil for softening and supporting dry skin.,"Dry, Normal",Barrier Repair
+Rosehip Radiance Oil,Face Oil,"Rosehip Oil, Vitamin E",Nourishing facial oil designed for glow and uneven-looking skin tone.,"Dry, Normal",Brightening
+Caffeine Under Eye Gel,Eye Care,"Caffeine, Peptides, Hyaluronic Acid",Cooling eye gel for hydration and the appearance of tired-looking eyes.,All Skin Types,Eye Care
+Overnight Retinol Cream,Moisturizer,"Retinol, Ceramides, Squalane",Night moisturizer combining retinol with barrier-supporting ingredients.,"Normal, Dry, Combination",Anti-Aging
+Acne Spot Treatment,Treatment,"Salicylic Acid, Tea Tree, Sulfur",Targeted treatment for individual blemishes.,"Oily, Combination",Acne Control
+Barrier Boost Facial Mist,Mist,"Panthenol, Centella, Glycerin",Soothing facial mist for a quick hydration boost throughout the day.,All Skin Types,Hydration
+Green Tea Antioxidant Serum,Serum,"Green Tea, Vitamin E, Niacinamide",Antioxidant serum for daily skin protection and balanced hydration.,"Normal, Oily, Combination",Antioxidant
+Licorice Brightening Serum,Serum,"Licorice, Alpha Arbutin, Niacinamide",Serum focused on the appearance of dark spots and uneven skin tone.,"Normal, Combination, Sensitive",Brightening
+Panthenol Soothing Cleanser,Cleanser,"Panthenol, Glycerin, Centella",Gentle daily cleanser designed for sensitive and dry skin.,"Dry, Sensitive",Gentle Cleansing
+Charcoal Pore Cleanser,Cleanser,"Charcoal, Kaolin, Salicylic Acid",Deep-cleansing face wash for oily skin and visible pores.,"Oily, Combination",Oil Control
+Ceramide Daily Lotion,Moisturizer,"Ceramides, Glycerin, Cholesterol",Light daily lotion supporting the skin barrier and long-lasting hydration.,"Dry, Normal, Sensitive",Barrier Repair
+Aloe Cooling Gel,Moisturizer,"Aloe Vera, Glycerin, Panthenol",Light soothing gel for hydration and skin comfort.,All Skin Types,Calming
+Glycolic Renewal Serum,Serum,"Glycolic Acid, Lactic Acid, Aloe",Exfoliating serum for smoother texture and brighter-looking skin.,"Normal, Combination, Oily",Exfoliation
+Bakuchiol Gentle Night Serum,Serum,"Bakuchiol, Squalane, Peptides",Gentle night serum supporting smoother and firmer-looking skin.,"Sensitive, Dry, Normal",Anti-Aging
+SPF 50 Brightening Sunscreen,Sunscreen,"Vitamin C, Niacinamide, UV Filters",Daily sunscreen combining UV protection with brightening-focused ingredients.,"Normal, Combination, Oily",Sun Protection
+Tinted Mineral Sunscreen SPF 50,Sunscreen,"Zinc Oxide, Iron Oxides, Vitamin E",Mineral sunscreen with a sheer tint and antioxidant support.,"Sensitive, Normal",Sun Protection
+Hyaluronic Water Cream,Moisturizer,"Hyaluronic Acid, Glycerin, Betaine",Water-light moisturizer delivering layered hydration without heaviness.,"Oily, Combination, Normal",Hydration
+Peptide Eye Cream,Eye Care,"Peptides, Ceramides, Squalane",Nourishing eye cream for hydration and a smoother-looking eye area.,"Dry, Normal",Eye Care
+Mandelic Acid Gentle Peel,Treatment,"Mandelic Acid, Panthenol, Allantoin",Gentler exfoliating treatment for uneven texture and dullness.,"Sensitive, Combination, Normal",Exfoliation
+Probiotic Barrier Serum,Serum,"Probiotic Ferment, Ceramides, Panthenol",Barrier-focused serum supporting skin comfort and hydration.,"Sensitive, Dry",Barrier Repair
+Zinc Mineral Sunscreen SPF 50,Sunscreen,"Zinc Oxide, Vitamin E, Squalane",Mineral sunscreen for sensitive skin with moisturizing ingredients.,"Sensitive, Dry",Sun Protection
+Hemp Calming Moisturizer,Moisturizer,"Hemp Seed Oil, Centella, Ceramides",Calming moisturizer for dryness and skin discomfort.,"Sensitive, Dry",Calming
+Turmeric Glow Mask,Mask,"Turmeric, Licorice, Kaolin",Brightening wash-off mask designed for dull-looking skin.,"Normal, Combination",Brightening
+Pore Balance Clay Mask,Mask,"Kaolin, Bentonite, Niacinamide",Oil-absorbing weekly mask for congested and combination skin.,"Oily, Combination",Oil Control
+Vitamin E Recovery Balm,Moisturizer,"Vitamin E, Shea Butter, Squalane","Rich recovery balm for dry, rough and stressed skin.","Dry, Sensitive",Barrier Repair
+Daily Antioxidant Face Lotion,Moisturizer,"Green Tea, Vitamin E, Niacinamide",Light daily lotion with antioxidant ingredients and balanced hydration.,"Normal, Combination",Antioxidant
+Brightening Eye Cream,Eye Care,"Vitamin C, Caffeine, Peptides",Eye cream designed to brighten the appearance of the under-eye area.,"Normal, Combination",Eye Care
